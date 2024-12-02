@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+.env/
+.venv/
+
+# Model and log files
+*.pkl
+*.log
